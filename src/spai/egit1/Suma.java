@@ -5,9 +5,7 @@ public class Suma {
         return a + b;
     }
 
-    public double incrementa(double d) {
-        // TODO Auto-generated method stub
-        return 0;
+    public double incrementa(double a) {
+        return a + a;
     }
-
 }
